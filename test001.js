@@ -1,3 +1,3 @@
 ;(function(){
-	console.log('Hey');
+	console.log('Hey ty żigolaku ...');
 }());
